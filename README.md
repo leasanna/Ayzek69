@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Ayzek69
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+<br>I'm Ayzek
+<br>learning python and javascript
 <br>Telegram- @leasanna
